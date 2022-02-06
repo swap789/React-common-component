@@ -1,0 +1,10 @@
+.btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.primary {
+    background-color: #69c0ff;
+    color: white;
+}
